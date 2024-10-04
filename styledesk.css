@@ -4,7 +4,7 @@
     font-optical-sizing: auto;
     font-weight: 500;
     font-style: normal;
-text-align: center;}
+    text-align: center;}
     
 
     #epicodegarantisce { font-size: 35px; margin-bottom: 3.6em;}
@@ -17,7 +17,7 @@ text-align: center;}
     
     .bluetitle { color: rgb(127, 178, 245);
     font-size: 2em;}
-    #redsquare { background-color: rgb(241, 75, 34);
+    #redsquare {background-color: rgb(241, 75, 34);
     width: 500;
      height: 500px; 
      color: white;
@@ -30,12 +30,13 @@ text-align: center;}
     
     
     #primoriquadro {background-image: url(banner.jpg);
-    width: 500px; 
+    width: 2000px; 
     height: 450px; 
-    align-items: center;
-    justify-content: center;
-margin-left: auto;
-margin-right: auto;}
+    padding-top:21em
+  
+
+}
+
     
     #lastsquare {color: white;
          background-color: rgb(34, 177, 177);
@@ -73,4 +74,4 @@ margin-right: auto;}
     
          hr { color: white; width: 200px;}
 
-       
+   #contacts { padding-top: 8em;}
