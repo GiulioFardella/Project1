@@ -1,0 +1,58 @@
+body { width: 500px;
+     text-align: center;}
+
+
+
+
+#logo { display: inline-block;
+background-color: black;}
+
+
+
+.bluetitle { color: rgb(127, 178, 245);
+font-size: 2em;}
+#redsquare { background-color: rgb(241, 75, 34);
+width: 500;
+ height: 500px; 
+ color: white;
+display: flex;
+justify-content: center;
+flex-direction: column;}
+
+
+#titlelogo { background-color: black;}
+
+
+#primoriquadro {background-image: url(banner.jpg);
+width: 500px; 
+height: 450px; 
+display: inline-block;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;}
+
+#lastsquare {color: white;
+     background-color: rgb(34, 177, 177);
+    width: 450px;
+    height: 400px;
+margin-left: 30px;
+display: flex;
+justify-content: center;
+flex-direction: column;}
+
+
+#firstbutton {background-color: rgb(255, 72, 0); 
+    border-radius: 5px;
+     color: aliceblue;
+
+}
+#roundphoto {border-radius: 50%;
+    
+width: 350px;}
+
+#openlaptop { width: 400px;}
+#closedlaptop {width: 400px;}
+#people {width: 400px;}
+
+#contacts { margin-bottom: 70px;}
